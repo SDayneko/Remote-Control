@@ -1,3 +1,7 @@
+csv/
+ipynb/
+png/
+
 *.csv
 .gitingnore
 
